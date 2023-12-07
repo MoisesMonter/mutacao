@@ -1,0 +1,4 @@
+- name: MutPy Configuration
+  mutants: 10
+  paths: ["project/"]
+  tests: ["test/"]
